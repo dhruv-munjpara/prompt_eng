@@ -5,6 +5,8 @@ Demonstration script showing JSON schema validation and word count constraint ve
 
 import json
 
+
+
 def validate_json_output(json_str: str):
     print("Testing Task 3 JSON output validity:")
     try:
